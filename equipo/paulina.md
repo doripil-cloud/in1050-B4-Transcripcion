@@ -1,10 +1,12 @@
-\#Paulina Ramírez 
+\#Paulina Ramírez
 
 Rol en el proyecto :\[ Investiga como funciona el modelo de Transcripción "Whisper Small"]
 
 
 
 Diagrama;
+
+```mermaid
 
 flowchart TD
 
@@ -17,6 +19,10 @@ C --> D\[Reconocimiento del habla]
 D --> E\[Transcripción de texto]
 
 E --> F\[Texto generado]
+
+```
+
+
 
 &#x09;
 
