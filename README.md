@@ -6,11 +6,13 @@ Proyecto integrador · Herramientas de IA
 Grupo: B1 · Equipo: 4
  
 ## 👥 Integrantes
+| Nombre | Función en el equipo |
+|------|-----------|
+| Fernanda Narahi Rayas Flores | Desarrollo del modelo whisper de transcripción |
+| Paulina Alejandra Ramírez Olmos | Desarrollo colaborativo del modelo Whisper Small |
+| Luciano Nery Reynoso Orozco | Por definir |
+| Jorge Andrés Ruiz López | Por definir |
 
-Fernanda Narahi Rayas Flores	Por definir
-Paulina Alejandra Ramírez Olmos	Desarrollo colaborativo del modelo Whisper Small
-Luciano Nery Reynoso Orozco	Por definir
-Jorge Andrés Ruiz López	Por definir
 ## 1. Caso de uso
  
 Estudiantes (de cualquier nivel) que graban clases largas o de mucha teoría y necesitan repasarlas sin volver a escuchar todo el audio. El sistema transcribe la grabación con Whisper y genera un resumen breve con DistilBART.
