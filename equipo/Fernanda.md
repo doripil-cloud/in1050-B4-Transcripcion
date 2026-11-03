@@ -1,6 +1,6 @@
 # Fernanda Narahi Rayas Flores
 
-Rol en el proyecto: README y diagrama
+Rol en el proyecto: 
 - Desarrollo del modelo whisper de transcripción
 
 
