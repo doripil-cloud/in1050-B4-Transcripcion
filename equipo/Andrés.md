@@ -1,10 +1,10 @@
 Jorge Andrés Ruiz López
 
-Rol en el equipo: 
+Rol en el equipo: Deployer
 
 ```mermaid
 flowchart TD
-  A[Deploy to production] --> B{is it friday?};
+  A[Deploy to production] --> B{is it possible?};
   B --Yes--> C{Do not deploy};
   B --No--> D{Deploy};
   C ----> E{Enjoy your weekend!};
