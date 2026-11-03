@@ -3,6 +3,7 @@
 Rol en el proyecto: README y diagrama
 - Desarrollo del modelo whisper de transcripción
 
+'''mermaid
 flowchart TD
     A([Inicio]) --> B[Preparar el proyecto]
     B --> C[Instalar Whisper]
@@ -16,3 +17,4 @@ flowchart TD
     J --> D
     I -->|Sí| K[Guardar transcripción]
     K --> L([Fin])
+'''
