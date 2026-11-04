@@ -10,7 +10,7 @@ Grupo: B1 · Equipo: 4
 |------|-----------|
 | Fernanda Narahi Rayas Flores | Desarrollo del modelo whisper de transcripción |
 | Paulina Alejandra Ramírez Olmos | Desarrollo colaborativo del modelo Whisper Small |
-| Luciano Nery Reynoso Orozco | Por definir |
+| Luciano Nery Reynoso Orozco | Integrador del modelo whisper Small|
 | Jorge Andrés Ruiz López | Desarrollo de despliegue del modelo de transcripción |
 
 ## 1. Caso de uso
