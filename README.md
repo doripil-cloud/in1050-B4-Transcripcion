@@ -5,7 +5,7 @@
 Proyecto integrador · Herramientas de IA
 Grupo: B1 · Equipo: 4
  
-## 👥 Integrantes
+##  Integrantes
 | Nombre | Función en el equipo |
 |------|-----------|
 | Fernanda Narahi Rayas Flores | Desarrollo del modelo whisper de transcripción |
@@ -22,14 +22,15 @@ El sistema utiliza Whisper Small para convertir las grabaciones de audio en text
 - **Entrada:** un archivo de audio (MP3, M4A o WAV) con la grabación de una clase, reunión o discurso.
 - **Salida:** la transcripción completa del audio en formato de texto.
  
-### 🔀 Cómo funciona
+###  Cómo funciona
  
 ```mermaid
 flowchart TD
-    A([Audio de la clase]) -->|openai/whisper-small| B[Transcripción]
-    B -->|sshleifer/distilbart-cnn-12-6| C[Resumen]
-    B --> D[(Texto completo para el usuario)]
-    C --> E[(Resumen para el usuario)]
+    A(["Archivo de audio"]) -->|Entrada| B["Whisper Small"]
+    B --> C["Procesamiento y reconocimiento del habla"]
+    C --> D["Conversión de voz a texto"]
+    D --> E[("Transcripción final")]
+
 ```
  
 ## 2. Modelo abierto elegido
