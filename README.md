@@ -1,6 +1,6 @@
 # Model Card del modelo en Hugging Face: Whisper (speech-to-text)
  
-**La correcta transcripción y el resumen de audio a texto**
+**Transcripción de audio a texto mediante Whisper Small.**
  
 Proyecto integrador · Herramientas de IA
 Grupo: B1 · Equipo: 4
@@ -14,11 +14,13 @@ Grupo: B1 · Equipo: 4
 | Jorge Andrés Ruiz López | Desarrollo de despliegue del modelo de transcripción |
 
 ## 1. Caso de uso
- 
-Estudiantes (de cualquier nivel) que graban clases largas o de mucha teoría y necesitan repasarlas sin volver a escuchar todo el audio. El sistema transcribe la grabación con Whisper y genera un resumen breve con DistilBART.
- 
+
+Estudiantes de cualquier nivel que graban clases largas o con mucha teoría y necesitan consultar la información sin volver a escuchar todo el audio.
+
+El sistema utiliza Whisper Small para convertir las grabaciones de audio en texto, facilitando la búsqueda y el repaso de los contenidos.
+
 - **Entrada:** un archivo de audio (MP3, M4A o WAV) con la grabación de una clase, reunión o discurso.
-- **Salida:** la transcripción completa en texto y un resumen corto de su contenido.
+- **Salida:** la transcripción completa del audio en formato de texto.
  
 ### 🔀 Cómo funciona
  
