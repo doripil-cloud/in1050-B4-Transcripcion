@@ -1,6 +1,6 @@
-\#Paulina Ramírez
+Paulina Ramírez
 
-Rol en el proyecto :\[ Investiga como funciona el modelo de Transcripción "Whisper Small"]
+Rol en el proyecto :\[ Investiga como funciona el modelo de Transcripción Whisper Small
 
 
 
