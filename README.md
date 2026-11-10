@@ -4,6 +4,9 @@
  
 Proyecto integrador · Herramientas de IA
 Grupo: B1 · Equipo: 4
+Problemática
+Los estudiantes que graban clases extensas pueden tener dificultades para consultar y repasar la información. Por ello, nuestro proyecto busca facilitar el acceso al contenido mediante la transcripción automática de audio utilizando Whisper Small.
+Para conocer más sobre el problema, consulta nuestra [investigación completa](docs/investigacion.md)
  
 ##  Integrantes
 | Nombre | Función en el equipo |
@@ -73,7 +76,7 @@ A partir de la revisión de la primera fase , se realizaron ajustes para enfocar
 - [ ] Documentar los resultados y las posibles limitaciones
 
 ## 7. Referencias
-Whisper Small – Hugging Face
+[Whisper Small](https://huggingface.co/openai/whisper-small)
 Repositorio oficial de Whisper – OpenAI
 Artículo de investigación: Robust Speech Recognition via Large-Scale Weak Supervision
 
