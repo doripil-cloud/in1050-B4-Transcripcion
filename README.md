@@ -63,7 +63,7 @@ Este proyecto busca facilitar la conversión de audio a texto mediante el modelo
 Integrantes del equipo
 
 ## 5. Cambios realizados desde la Fase 1
-A partir de la revisión de la primera fase , se realizaron ajustes para enfocar el ptoyecto exclusivamente en Whisper Small. Se organizó  la documentación  del repositorio, se definió con mayor claridad el caso de uso  y se agregó  un diagrama para representar el proceso de transcripción de audio a texto
+A partir de la revisión de la primera fase , se realizaron ajustes para enfocar el proyecto exclusivamente en Whisper Small. Se organizó  la documentación  del repositorio, se definió con mayor claridad el caso de uso  y se agregó  un diagrama para representar el proceso de transcripción de audio a texto
 ## 6: Próximo
 - [ ] Investigar y documentar el funcionamiento del modelo
 - [ ] Preparar el entorno en Colab
